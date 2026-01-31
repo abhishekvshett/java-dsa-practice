@@ -1,15 +1,19 @@
 # Java DSA Practice
 
-This repository contains my solutions to Data Structures and Algorithms problems implemented in Java.
+This repository contains my Java implementations of common Data Structures and Algorithms problems.
 
-### Topics Covered
+## Topics
 - Arrays
 - Strings
 - Linked List
 - Stack
 - Queue
 
-Each solution includes:
+Each program includes:
 - Problem description
 - Approach
 - Time & Space Complexity
+
+Purpose of this repository:
+- Strengthen problem-solving skills
+- Prepare for coding interviews
